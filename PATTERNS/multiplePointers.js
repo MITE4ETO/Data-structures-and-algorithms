@@ -14,7 +14,7 @@ function sumZero(arr) {
     }
 }
 
-sumZero([-4, -3, -2, -1, 0, 1, 2, 3, 10])
+console.log(sumZero([-4, -33, -2, -1, 0, 1, 2, 33, 10]));
 
 
 // Time complexity - O(N)
