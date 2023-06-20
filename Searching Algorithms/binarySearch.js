@@ -31,4 +31,4 @@ function binarySearch(arr, elem) {
   return arr[middle] === elem ? middle : -1;
 }
 
-console.log(binarySearch([2, 5, 20, 25], 20));
+console.log(binarySearch([2, 5, 20, 25], 21));

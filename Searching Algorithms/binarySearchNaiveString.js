@@ -1,0 +1,4 @@
+
+function naiveSearch(long, short) {
+    
+}
